@@ -1,8 +1,8 @@
 const $phoneNumber = document.querySelector('.phone-number');
-$phoneNumber.textContent = '(760) 605-3609';
+$phoneNumber.textContent = '(949) 735-4321';
 
 const $emailAddress = document.querySelector('.email-address');
-$emailAddress.textContent = 'BigosAdventures@gmail.com';
+$emailAddress.textContent = 'Sheneau@LivingFreeMinistries.org';
 
-const $instagram = document.querySelector('.instagram');
-$instagram.textContent = '@BigosLLC';
+// const $instagram = document.querySelector('.instagram');
+// $instagram.textContent = '@BigosLLC';
